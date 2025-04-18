@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Nandhinidevi01
-- 👀 I’m interested in Data Science
+HELLO EVERYONE 👋
+
+- 👋 Hi, I’m Nandhinidevi P S
+- 👀 I’m interested in Data Science and Data Analysis
 - 🌱 I’m currently pursuing B.TECH AI&DS
 - 💞️ I’m looking to collaborate on Data Science and Data Analysis
 - 📫 How to reach me https://www.linkedin.com/in/nandhinidevi-senthilkumar-919b66259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
